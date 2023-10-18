@@ -1,5 +1,7 @@
 This project is a clone of the https://sat.ae/sat/ site.
 
+| <img src="./figures/dashboard.gif"  height=150 width=300 alt="NAFNet For Image Denoise"> |
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
