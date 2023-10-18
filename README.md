@@ -1,6 +1,6 @@
 This project is a clone of the https://sat.ae/sat/ site.
 
-| <img src="./figures/dashboard.gif"  height=200 width=400 alt="NAFNet For Image Denoise"> |
+| <img src="./figures/dashboard.gif"  height=200 width=400> | <img src="./figures/our partners.gif"  height=200 width=400> |
 
 # Getting Started with Create React App
 
